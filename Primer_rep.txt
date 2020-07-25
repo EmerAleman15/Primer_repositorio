@@ -1,0 +1,6 @@
+Este es el Repo ☺
+git init
+git add.
+commit -m "Helloudah criaturitas del señor ☻"
+git remote add origin https://github.com/EmerAleman15/Primer_repositorio.git
+git push -u origin master
